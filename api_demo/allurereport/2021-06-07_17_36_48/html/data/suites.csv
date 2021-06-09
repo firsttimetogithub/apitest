@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","","","","api_demo.test","test_login","mytest","","","test_login_wrong_password",""
+"passed","Mon Jun 07 17:36:48 CST 2021","Mon Jun 07 17:36:48 CST 2021","0","api_demo.test","test_login","mytest","","","test_login_wrong_verifyCode",""
+"passed","Mon Jun 07 17:36:48 CST 2021","Mon Jun 07 17:36:48 CST 2021","2","api_demo.test","test_login","mytest","","","test_login",""
+"skipped","","","","api_demo.test","test_login","mytest","","","test_login_wrong_userName",""
+"passed","Mon Jun 07 17:36:48 CST 2021","Mon Jun 07 17:36:48 CST 2021","3","api_demo.test","test_login","mytest","","","test_login_osign_error",""

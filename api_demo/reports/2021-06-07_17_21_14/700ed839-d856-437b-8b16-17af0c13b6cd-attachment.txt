@@ -1,0 +1,5 @@
+start
+b'correctusercorrectpassword123456'
+http://test1.com/login?password=correctpassword&userName=correctuser&verifyCode=123456&osign=5fe5d59aeec7afbd74c637a769c640a1
+b'correctusercorrectpassword123456'
+end

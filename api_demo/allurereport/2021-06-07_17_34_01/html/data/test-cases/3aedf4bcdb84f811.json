@@ -1,0 +1,90 @@
+{
+  "uid" : "3aedf4bcdb84f811",
+  "name" : "test_login_wrong_userName",
+  "fullName" : "api_demo.test.test_login.mytest#test_login_wrong_userName",
+  "historyId" : "5f1f23579eab82ce9f453889c56c8af9",
+  "time" : { },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: skip",
+  "statusTrace" : "('api_demo\\\\test\\\\test_login.py', 43, 'Skipped: skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "skipped",
+    "statusMessage" : "Skipped: skip",
+    "statusTrace" : "('api_demo\\\\test\\\\test_login.py', 43, 'Skipped: skip')",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cc463f3a05f6c583",
+      "name" : "log",
+      "source" : "cc463f3a05f6c583.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "6682485d81011279",
+      "name" : "stdout",
+      "source" : "6682485d81011279.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "9c8af9b97342b00f",
+      "name" : "stderr",
+      "source" : "9c8af9b97342b00f.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif(True, reason='skip')"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif(True, reason='skip')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "api_demo.test"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "mytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VJLVDUF"
+  }, {
+    "name" : "thread",
+    "value" : "132-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "api_demo.test.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skipif(True, reason='skip')" ]
+  },
+  "source" : "3aedf4bcdb84f811.json",
+  "parameterValues" : [ ]
+}

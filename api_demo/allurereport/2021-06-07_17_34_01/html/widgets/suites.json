@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "ac7e4363d573ade8d27c0146f1bf97a0",
+    "name" : "api_demo.test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

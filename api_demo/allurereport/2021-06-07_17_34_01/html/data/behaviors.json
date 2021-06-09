@@ -1,0 +1,62 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_login_wrong_userName",
+    "uid" : "3aedf4bcdb84f811",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : { },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_login_wrong_password",
+    "uid" : "d4f7f77c0f58e418",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : { },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_login",
+    "uid" : "25bc9a3883859610",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623058442080,
+      "stop" : 1623058442082,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_login_osign_error",
+    "uid" : "2d7e5a23afc5359e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623058442086,
+      "stop" : 1623058442089,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_login_wrong_verifyCode",
+    "uid" : "a519f372e9c429a8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623058442097,
+      "stop" : 1623058442098,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

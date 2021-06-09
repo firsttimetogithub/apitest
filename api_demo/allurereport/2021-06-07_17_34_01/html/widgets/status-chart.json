@@ -1,0 +1,43 @@
+[ {
+  "uid" : "25bc9a3883859610",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1623058442080,
+    "stop" : 1623058442082,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a519f372e9c429a8",
+  "name" : "test_login_wrong_verifyCode",
+  "time" : {
+    "start" : 1623058442097,
+    "stop" : 1623058442098,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3aedf4bcdb84f811",
+  "name" : "test_login_wrong_userName",
+  "time" : { },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2d7e5a23afc5359e",
+  "name" : "test_login_osign_error",
+  "time" : {
+    "start" : 1623058442086,
+    "stop" : 1623058442089,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4f7f77c0f58e418",
+  "name" : "test_login_wrong_password",
+  "time" : { },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

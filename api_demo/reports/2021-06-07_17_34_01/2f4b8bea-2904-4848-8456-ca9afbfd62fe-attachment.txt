@@ -1,0 +1,12 @@
+start
+b'correctusercorrectpassword123456'
+http://test1.com/login?osign=5fe5d59aeec7afbd74c637a769c640a1&userName=correctuser1&verifyCode=123456&password=correctpassword
+b'correctuser1correctpassword123456'
+b'correctuser1correctpassword123456'
+http://test1.com/login?osign=977708adab10515f3a4f588a87d6510b&userName=correctuser1&verifyCode=123456&password=correctpassword1
+b'correctuser1correctpassword1123456'
+b'correctuser1correctpassword1123456'
+http://test1.com/login?osign=d4becbbe6ef0b9e7420962578cc2a247&userName=correctuser1&verifyCode=1234561&password=correctpassword1
+b'correctuser1correctpassword11234561'
+osign para lenth : 3
+end
